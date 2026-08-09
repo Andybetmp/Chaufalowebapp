@@ -42,7 +42,7 @@ const TEAM_DATA = [
   {
     id: "collab2",
     name: "Jolaus Andy Meza",
-    role: "Desarrollador Web",
+    role: "Web designer",
     bio: "El que hizo posible que Chaufalo llegue al mundo digital. Código, diseño y mucho amor por el chaufa en cada línea.",
     photo: "assets/person2.jpg",
     badge: "⭐ Colaborador",
